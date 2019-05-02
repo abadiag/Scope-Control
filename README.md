@@ -14,4 +14,4 @@ After Object created many config options are avaliable:
 
 First version embedded in a win forms example. 
 
-ScopeView.cs can worck stand alone. 
+ScopeView.cs can work stand alone. 
